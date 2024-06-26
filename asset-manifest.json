@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo_machine_Curso_de_React/static/css/main.dae54309.css",
+    "main.js": "/Todo_machine_Curso_de_React/static/js/main.7726bb07.js",
+    "index.html": "/Todo_machine_Curso_de_React/index.html",
+    "main.dae54309.css.map": "/Todo_machine_Curso_de_React/static/css/main.dae54309.css.map",
+    "main.7726bb07.js.map": "/Todo_machine_Curso_de_React/static/js/main.7726bb07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dae54309.css",
+    "static/js/main.7726bb07.js"
+  ]
+}
